@@ -1,0 +1,4 @@
+name:Anu
+age:23
+address:Myldgender:Female
+education:Degree completed
