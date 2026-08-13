@@ -1,0 +1,8 @@
+print("monday","tuesday","wednesday",sep="\n")
+print("python",end=" ")
+print("java",end=" * ")
+print("c++")
+print("maths",end="  ")
+print("science",end="**")
+print("social","tamil",sep="\n")
+print("english")
